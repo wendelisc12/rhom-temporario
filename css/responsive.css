@@ -1,0 +1,127 @@
+@media (max-width: 920px) {
+    html,body{
+        overflow-x: hidden;
+    }
+
+    nav img{
+        width: 180px;
+    }
+
+    #linkedin-nav{
+        display: none;
+    }
+
+    .marca-mais{
+        width: 50px !important;
+    }
+
+    .quem-somos-texto p{
+        transform: translateX(20px);
+    }
+
+    #pilares-container{
+        align-items: center;
+        flex-direction: column;
+    }
+
+    #pilares-container article{
+        margin-bottom: 50px;
+    }
+
+    #socios{
+        flex-direction: column;
+        align-items: center;
+        height: 900px !important;
+    }
+
+    #socios article {
+        width: 140px !important;
+    }
+
+    .socios-div{
+        width: 100% !important;
+        margin-top: 5px;
+    }
+
+    #socio-detalhes{
+        padding: 0 !important;
+        height: 900px;
+        justify-content: space-between !important;
+    }
+
+    #close-detalhes{
+        margin-top: 30px;
+    }
+
+    #socio-detalhes div.container{
+        height: 100%;
+    }
+
+    #foto-detalhes{
+        height:430px;
+    }
+
+    #descricao-detalhes{
+        height: 800px !important;
+        overflow: auto;
+    }
+
+    #areas-atuacao-section h1{
+        font-size: 2rem !important;
+    }
+
+    #areas-atuacao-artigos{
+        flex-direction: row !important;
+    }
+
+    .areas-div{
+        flex-direction: column !important;
+        width: 60% !important;
+    }
+
+    .areas-artigo{
+        width:180px;
+        height: 100px;
+    }
+
+    #footer-div{
+        flex-direction: column !important;
+    }
+
+    #footer-div h2{
+        color: white;
+        transform: translateY(0px);
+    }
+
+    #localizacao{
+        width: 330px;
+        height: 300px;
+        margin: 0 auto;
+    }
+
+    #contato-informacoes{
+        padding-bottom: 50px;
+    }
+
+    #contato-informacoes h5{
+        font-size: 1rem;
+    }
+
+    #icons img{
+        width: 60px;
+    }
+
+    #footer a{
+        font-size: 14px;
+    }
+    
+
+    #copy-right{
+        justify-content: center !important;
+    }
+
+    #copy-right p{
+        margin-right: 0 !important;
+        font-size: 14px;
+    }
+}

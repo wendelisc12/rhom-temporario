@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="40" viewBox="0 0 53 52.917">
+  <g id="Orion_sms-message" transform="translate(1.5 1.5)">
+    <path id="layer2" d="M39.917,43.994c.833.583,2.333,1.417,2,3.25a9.583,9.583,0,0,1-9,6.667c-6,0-13.333-4.75-19.75-11.167S2,28.994,2,22.994a9.583,9.583,0,0,1,6.667-9c1.833-.25,2.667,1.167,3.25,2l4.5,6.917a3.25,3.25,0,0,1-.833,4.333c-1.917,1.583-5.167,3.5,2.167,10.833S27,42.161,28.583,40.244a3.25,3.25,0,0,1,4.333-.833Z" transform="translate(-2 -3.994)" fill="none" stroke="#eb640f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+    <path id="layer1" d="M54.167,2h-24A2.167,2.167,0,0,0,28,4.167V19.833A2.167,2.167,0,0,0,30.167,22h6.167v5.833L42.167,22h12a2.167,2.167,0,0,0,2.167-2.167V4.167A2.167,2.167,0,0,0,54.167,2Z" transform="translate(-6.333 -2)" fill="none" stroke="#eb640f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+    <circle id="layer1-2" data-name="layer1" cx="0.833" cy="0.833" r="0.833" transform="translate(35 9.167)" fill="none" stroke="#eb640f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+    <circle id="layer1-3" data-name="layer1" cx="0.833" cy="0.833" r="0.833" transform="translate(28.333 9.167)" fill="none" stroke="#eb640f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+    <circle id="layer1-4" data-name="layer1" cx="0.833" cy="0.833" r="0.833" transform="translate(41.667 9.167)" fill="none" stroke="#eb640f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+  </g>
+</svg>

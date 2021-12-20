@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27.716" height="27.716" viewBox="0 0 27.716 27.716">
+  <g id="Grupo_5967" data-name="Grupo 5967" transform="translate(28.75 0.332)">
+    <g id="Grupo_5965" data-name="Grupo 5965" transform="translate(-28 0.418)">
+      <rect id="Retângulo_2182" data-name="Retângulo 2182" width="26.216" height="26.216" rx="13.108" fill="none" stroke="#00314b" stroke-miterlimit="10" stroke-width="1.5"/>
+      <g id="Grupo_5964" data-name="Grupo 5964" transform="translate(6.903 5.804)">
+        <g id="Grupo_5963" data-name="Grupo 5963">
+          <rect id="Retângulo_2183" data-name="Retângulo 2183" width="2.713" height="8.764" transform="translate(0.261 4.382)" fill="#00314b"/>
+          <path id="Caminho_17066" data-name="Caminho 17066" d="M652.552,140.774a1.617,1.617,0,1,0-1.6-1.617A1.611,1.611,0,0,0,652.552,140.774Z" transform="translate(-650.948 -137.539)" fill="#00314b"/>
+        </g>
+        <path id="Caminho_17067" data-name="Caminho 17067" d="M660.385,147.944c0-1.232.567-1.966,1.653-1.966,1,0,1.477.7,1.477,1.966v4.6h2.7V147c0-2.348-1.331-3.482-3.188-3.482a3.057,3.057,0,0,0-2.641,1.448V143.78h-2.6v8.764h2.6Z" transform="translate(-653.075 -139.398)" fill="#00314b"/>
+      </g>
+    </g>
+  </g>
+</svg>

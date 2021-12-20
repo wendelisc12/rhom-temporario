@@ -1,0 +1,232 @@
+/* padrão */
+body{
+    font-family: 'Calibri', sans-serif;
+}
+
+header{
+    background-color: white;
+}
+#navegacao-items li{
+    margin-right: 35px;
+}
+
+#navegacao-items a{
+    color: var(--azul-rhom) !important;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+
+ul#navegacao-items li a{
+    color: var(--azul-rhom) !important;
+    font-weight: 600;
+    font-size: 1.1rem;
+    margin-right: 18px;
+    padding: 5px 0;
+    border: none;
+    transition: 400ms all;
+    position: relative;
+}
+  
+ul#navegacao-items li a::after{
+    content: '';
+    position: absolute;
+    width: 0px;
+    height: 2px;
+    left: 50%;
+    bottom:0;
+    background-color: var(--laranja-rhom);
+    transition: all ease-in-out .2s;
+}
+  
+ul#navegacao-items li a:hover::after{
+    width: 100%;
+    left: 0;
+}
+
+ul#navegacao-items li a:hover{
+    color: var(--laranja-rhom) !important;
+}
+
+#banner-principal{
+    width: 100%;
+    height: 398px;
+    background: url('../images/banner.jpg') no-repeat;
+    background-size: cover;
+}
+
+#aviso-cookie-container{
+    background-color: white;
+    box-shadow: 0 0 30px rgba(61, 61, 61, 0.377);
+    bottom: 30px;
+    width: 83%;
+    margin: 0 auto;
+    padding: 10px 20px;
+}
+
+#aviso-cookie-container img{
+    width: 50px;
+}
+
+#aviso-cookie-container h5{
+    font-size: 1rem;
+    margin-top: 8px;
+    margin-left: 30px;
+}
+
+#aviso-cookie-container  button{
+    width: 120px;
+    margin-left: 30px;
+}
+
+.quem-somos-texto{
+    width: 80%;
+    margin: 0 auto;
+    font-weight: 500;
+    transform: translateY(-20px);
+}
+
+#pilares-section article{
+    height: 300px;
+}
+
+#socios{
+    display: flex;
+}
+
+#socios article{
+    width: 170px;
+    height: 430px;
+}
+
+#socio-detalhes{
+    background-color: #F1F1F1;
+    height:600px;
+    padding: 0 20px 20px 20px;
+    display: none;
+}
+
+#foto-detalhes{
+    width: 200px;
+    height: 450px;
+    background-size: cover;
+    background-position: center;
+}
+
+#descricao-detalhes{
+    width: 100%;
+    margin-left: 20px;
+    height: 400px;
+}
+
+.socio-descricao{
+    background: linear-gradient(transparent, transparent, var(--azul-rhom));
+    text-transform: uppercase;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    color: #B4B4B4;
+    text-align: center;
+    padding: 10px 5px;
+    transition: background 400ms;
+    cursor: pointer;
+}
+
+.socio-descricao:hover{
+    background: linear-gradient(transparent, var(--azul-rhom));
+}
+
+.socio-descricao h4{
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+#socio-pedro{
+    background: url('../images/socios/Pedro-Romeiro.png') center;
+    background-size: cover;
+}
+
+#socio-daniel{
+    background: url('../images/socios/Daniel-Ostronoff.png') center;
+    background-size: cover;
+}
+
+#socio-fabio{
+    background: url('../images/socios/Fábio-MAchado.png') center;
+    background-size: cover;
+}
+
+#socio-andre{
+    background: url('../images/socios/André-Della.png') center;
+    background-size: cover;
+}
+
+#socio-eric{
+    background: url('../images/socios/Eric-Matheus.png') center;
+    background-size: cover;
+}
+
+#socio-matheus{
+    background: url('../images/socios/Matheus-Emiliano.png') center;
+    background-size: cover;
+}
+
+#areas-atuacao-artigos{
+    display: flex;
+}
+
+#areas-atuacao-detalhes{
+    background-color: #F1F1F1;
+    height: 600px;
+    transition: all 400ms;
+    display: none;
+}
+
+.areas-artigo{
+    width: 300px;
+    margin-top: 50px;
+}
+
+.areas-artigo h5{
+    color: var(--azul-rhom);
+    font-weight: 600;
+}
+
+.areas-artigo span{
+    color: var(--laranja-rhom);
+    text-decoration: underline;
+}
+
+#localizacao{
+    transform: translateY(-80px);
+    margin-right: 50px;
+}
+
+#contato-informacoes{
+    margin-left: 20px;
+}
+
+#contato-informacoes h2{
+    transform: translateY(-50px);
+    font-weight: 600;
+}
+
+.footer-informacao{
+    color: white;
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.footer-informacao h5{
+    font-weight: 600;
+    padding-left: 20px;
+}
+
+#icons{
+    margin-top: 31px;
+}
+
+#icons img{
+    width: 70px;
+}

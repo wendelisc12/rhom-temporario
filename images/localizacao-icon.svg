@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="40" viewBox="0 0 41.009 66.708">
+  <g id="Orion_location-pin" transform="translate(1.5 1.503)">
+    <path id="layer2" d="M33,65.352c0-18.05,17.205-26.6,18.789-41.9a19.016,19.016,0,1,0-37.577-.106C15.795,38.752,33,47.3,33,65.352Z" transform="translate(-13.997 -1.647)" fill="none" stroke="#eb640f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+    <circle id="layer1" cx="6.333" cy="6.333" r="6.333" transform="translate(12.67 13.039)" fill="none" stroke="#eb640f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+  </g>
+</svg>

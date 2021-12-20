@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="40" viewBox="0 0 54.242 37.576">
+  <g id="Orion_mail" transform="translate(2.121 2.121)">
+    <path id="layer2" d="M2,12,27,36.167,52,12M35.333,28.333,52,45.333m-50,0,16.667-17" transform="translate(-2 -12)" fill="none" stroke="#eb640f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+    <path id="layer1" d="M2,12H52V45.333H2Z" transform="translate(-2 -12)" fill="none" stroke="#eb640f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+  </g>
+</svg>
