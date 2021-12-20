@@ -8,23 +8,30 @@
     <title>RHOM</title>
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
 </head>
 
 <body>
 
     <div id="principal-container" class="container pb-5 mb-5">
-        <header class="p-4 sticky-top">
+        <header class="p-2 sticky-top">
             <nav class="navbar navbar-expand-sm navbar-light justify-content-between">
                 <a href="index.html" class="navbar-brand"><img width="250" src="images/logo.svg" alt=""></a>
 
-                <ul class="navbar-nav text-uppercase" id="navegacao-items">
-                    <li class="nav-item"><a href="#quem-somos-section" class="nav-link">Quem somos</a></li>
-                    <li class="nav-item"><a href="#area-atuacao-section" class="nav-link">Áreas de atuação</a></li>
-                    <li class="nav-item"><a href="" class="nav-link">Contato</a></li>
-                </ul>
+                <button class="navbar-toggler" data-toggle="collapse" data-target="#nav-target">
+                    <span class="navbar-toggler-icon"></span>
+                  </button>
+      
+                <div class="navbar-collapse collapse" id="nav-target">
+                    <ul class="navbar-nav text-uppercase mx-auto" id="navegacao-items">
+                    <li class="nav-item"><a href="#quem-somos-section" id="quem-somos-nav" class="nav-link">Quem somos</a></li>
+                    <li class="nav-item"><a href="#areas-atuacao-section" class="nav-link">Áreas de atuação</a></li>
+                    <li class="nav-item"><a href="#footer-sobre" class="nav-link">Contato</a></li>
+                    </ul>
+                </div>
 
-                <a href="#"><img src="images/linkedin-icon.svg" alt=""></a>
-            </nav>
+                <a href="#" id="linkedin-nav"><img src="images/linkedin-icon.svg" alt=""></a>
+              </nav>
 
         </header>
 

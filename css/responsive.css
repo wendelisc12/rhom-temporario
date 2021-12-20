@@ -28,6 +28,20 @@
         margin-bottom: 50px;
     }
 
+    #aviso-cookie-container{
+        height: 100px;
+        width: 95% !important;
+    }
+
+    #aviso-cookie-container h5{
+        font-size: 10px;
+    }
+    
+    #botoes-cookie{
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+
     #socios{
         flex-direction: column;
         align-items: center;
